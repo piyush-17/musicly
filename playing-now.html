@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, width=device-width" />
+  <link rel="stylesheet" href="./global.css" />
+  <link rel="stylesheet" href="./playing-now.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Aguafina Script:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Aclonica:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap" />
+</head>
+
+<body>
+  <div class="playing-now">
+    <div class="div">00:00</div>
+    <div class="div1">04:00</div>
+    <img class="playing-now-child" alt="" src="group-145.svg" />
+
+    <img class="heart-icon" alt="" src="heart.svg" />
+
+    <img class="playing-now-item" alt="" src="vector-162.svg" />
+
+    <img class="playing-now-inner" alt="" src="vector-163.svg" />
+
+    <img class="ellipse-icon" alt="" src="ellipse-1.svg" />
+
+    <img class="evashuffle-outline-icon" alt="" src="evashuffleoutline.svg" />
+
+    <img class="icround-repeat-icon" alt="" src="icroundrepeat.svg" />
+
+    <img class="volume-1-icon" alt="" src="volume1.svg" />
+
+    <img class="arrow-right-icon" alt="" src="arrowright.svg" id="arrowRightIcon" />
+
+    <div class="playing-now1">Playing Now</div>
+    <div class="frame-div">
+      <div class="moment-apart-parent">
+        <div class="moment-apart">Moment Apart</div>
+        <div class="odesza">Odesza</div>
+        <img class="frame-child" alt="" src="group-132@2x.png" />
+
+        <div class="believer">Believer</div>
+        <div class="imagine-dragon">IMAGINE DRAGON</div>
+        <img class="frame-item" alt="" src="group-146@2x.png" />
+      </div>
+    </div>
+    <img class="home-indicator-dark-1" alt="" src="./public/home-indicator--dark-1.svg" />
+  </div>
+
+  <script>
+    var arrowRightIcon = document.getElementById("arrowRightIcon");
+    if (arrowRightIcon) {
+      arrowRightIcon.addEventListener("click", function (e) {
+        window.location.href = "./playlist.html";
+      });
+    }
+  </script>
+</body>
+
+</html>

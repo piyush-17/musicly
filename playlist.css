@@ -1,0 +1,541 @@
+.adjust-horizontal-altb-icon,
+.arrow-righta-icon {
+  position: absolute;
+  top: 34.24px;
+  left: 30.49px;
+  width: 24px;
+  height: 24px;
+}
+.adjust-horizontal-altb-icon {
+  left: 320.49px;
+}
+.liked-songsc {
+  position: absolute;
+  width: 36.94%;
+  top: 10.91%;
+  left: 7.91%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-actor);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.covers {
+  position: absolute;
+  top: -5.7px;
+  left: 15.54px;
+  background-color: var(--color-aquamarine);
+  width: 92.43px;
+  height: 202.61px;
+}
+.mask-group {
+  position: absolute;
+  height: 64.34%;
+  width: 81.52%;
+  top: 8.97%;
+  right: 11.09%;
+  bottom: 26.68%;
+  left: 7.39%;
+  filter: blur(45.84px);
+}
+.mask-group-icon {
+  position: absolute;
+  height: 75.85%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 24.15%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.believer3,
+.imagine-dragon3 {
+  position: absolute;
+  top: 156.39px;
+  left: 41.27px;
+}
+.imagine-dragon3 {
+  top: 178.39px;
+  left: 39.34px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-139d {
+  position: absolute;
+  height: 23.57%;
+  width: 40.32%;
+  top: 17.44%;
+  right: 51.77%;
+  bottom: 58.99%;
+  left: 7.91%;
+  cursor: pointer;
+}
+.image-6 {
+  position: absolute;
+  height: 100.43%;
+  width: 111.34%;
+  top: 0;
+  right: -9.44%;
+  bottom: -0.43%;
+  left: -1.9%;
+  background-color: var(--color-peru);
+}
+.mask-group1 {
+  position: absolute;
+  height: 60.88%;
+  width: 62.96%;
+  top: 14.97%;
+  right: 16.69%;
+  bottom: 24.15%;
+  left: 20.35%;
+  filter: blur(45.84px);
+}
+.mask-group-icon1 {
+  position: absolute;
+  height: 75.86%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 24.14%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ryan-grigdry2,
+.shortwave2 {
+  position: absolute;
+  top: 156.37px;
+  left: 32.58px;
+}
+.ryan-grigdry2 {
+  top: 178.37px;
+  left: 45.63px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-140e {
+  position: absolute;
+  height: 23.57%;
+  width: 40.32%;
+  top: 17.44%;
+  right: 7.37%;
+  bottom: 58.99%;
+  left: 52.31%;
+  cursor: pointer;
+}
+.new-artists-you-need-to-check {
+  position: absolute;
+  top: 0;
+  left: -1.12px;
+  background-color: var(--color-indianred);
+  width: 116.43px;
+  height: 130.29px;
+}
+.mask-group2 {
+  position: absolute;
+  height: 67.44%;
+  width: 79.48%;
+  top: 8.37%;
+  right: 9.69%;
+  bottom: 24.18%;
+  left: 10.83%;
+  filter: blur(45.74px);
+}
+.mask-group-icon2 {
+  position: absolute;
+  height: 75.83%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 24.17%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dream-on,
+.roger-terry {
+  position: absolute;
+  top: 156.03px;
+  left: 35.12px;
+}
+.roger-terry {
+  top: 178.03px;
+  left: 47.69px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-141f {
+  position: absolute;
+  height: 23.53%;
+  width: 40.24%;
+  top: 43.84%;
+  right: 51.86%;
+  bottom: 32.63%;
+  left: 7.91%;
+}
+.aesthetic-vaporwave-trashh {
+  position: absolute;
+  top: 0;
+  left: -4.67px;
+  background-color: var(--color-darkgreen);
+  width: 103.44px;
+  height: 133.01px;
+}
+.mask-group3 {
+  position: absolute;
+  height: 64.48%;
+  width: 66.12%;
+  top: 11.33%;
+  right: 17.19%;
+  bottom: 24.19%;
+  left: 16.69%;
+  filter: blur(45.74px);
+}
+.imagine-dragon4,
+.origins {
+  position: absolute;
+  top: 156.01px;
+  left: 44.76px;
+}
+.imagine-dragon4 {
+  top: 178.01px;
+  left: 40.57px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-142g {
+  position: absolute;
+  height: 23.52%;
+  width: 40.24%;
+  top: 43.84%;
+  right: 7.38%;
+  bottom: 32.63%;
+  left: 52.38%;
+}
+.highest-in-the {
+  position: absolute;
+  top: 154.55px;
+  left: 0;
+}
+.travis-scott-highest-in-the {
+  position: absolute;
+  top: -13.46px;
+  left: -8.75px;
+  background-color: #7795ff;
+  width: 87.71px;
+  height: 114.46px;
+}
+.mask-group4 {
+  position: absolute;
+  height: 49.14%;
+  width: 48.79%;
+  top: 21.26%;
+  right: 23.94%;
+  bottom: 29.6%;
+  left: 27.27%;
+  filter: blur(60px);
+}
+.travis-scott {
+  position: absolute;
+  top: 177.29px;
+  left: 50.58px;
+  font-size: var(--font-size-3xs);
+  text-transform: uppercase;
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-icon4 {
+  position: absolute;
+  height: 74.62%;
+  width: 96.68%;
+  top: 0;
+  right: 1.53%;
+  bottom: 25.38%;
+  left: 1.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.highest-in-the-room-parent,
+.mask-group5 {
+  position: absolute;
+  top: 784.08px;
+  left: 26.91px;
+  width: 153px;
+  height: 190.29px;
+}
+.mask-group5 {
+  height: 67.44%;
+  width: 79.48%;
+  top: 8.38%;
+  right: 9.69%;
+  bottom: 24.18%;
+  left: 10.83%;
+  filter: blur(45.74px);
+}
+.mask-group-icon5 {
+  position: absolute;
+  height: 75.82%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 24.18%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gryffin,
+.tie-me-down {
+  position: absolute;
+  top: 156.05px;
+  left: 26.25px;
+}
+.gryffin {
+  top: 178.05px;
+  left: 59.84px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-133h {
+  position: absolute;
+  height: 23.53%;
+  width: 40.24%;
+  top: 70.2%;
+  right: 51.85%;
+  bottom: 6.27%;
+  left: 7.91%;
+}
+.aesthetic-vaporwave-trashh1 {
+  position: absolute;
+  top: 0;
+  left: -4.68px;
+  background-color: var(--color-slateblue);
+  width: 103.44px;
+  height: 133.01px;
+}
+.mask-group6 {
+  position: absolute;
+  height: 64.47%;
+  width: 66.12%;
+  top: 11.35%;
+  right: 17.18%;
+  bottom: 24.18%;
+  left: 16.69%;
+  filter: blur(45.74px);
+}
+.chaff-dust,
+.hyonna {
+  position: absolute;
+  top: 156.05px;
+  left: 24.52px;
+}
+.hyonna {
+  top: 178.05px;
+  left: 57.34px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-134i,
+.image-61 {
+  position: absolute;
+  height: 23.53%;
+  width: 40.24%;
+  top: 70.2%;
+  right: 7.38%;
+  bottom: 6.27%;
+  left: 52.38%;
+}
+.image-61 {
+  height: 100.43%;
+  width: 111.34%;
+  top: 0;
+  right: -9.44%;
+  bottom: -0.43%;
+  left: -1.89%;
+  background-color: var(--color-darkslateblue);
+}
+.mask-group7 {
+  position: absolute;
+  height: 60.55%;
+  width: 62.96%;
+  top: 14.89%;
+  right: 16.69%;
+  bottom: 24.56%;
+  left: 20.35%;
+  filter: blur(45.16px);
+}
+.mask-group-icon7 {
+  position: absolute;
+  height: 75.44%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 24.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.moment-apart2,
+.odesza2 {
+  position: absolute;
+  top: 154.04px;
+  left: 15.32px;
+}
+.odesza2 {
+  top: 176.55px;
+  left: 56.91px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-parent {
+  position: absolute;
+  height: 23.34%;
+  width: 39.72%;
+  top: 96.56%;
+  right: 7.37%;
+  bottom: -19.9%;
+  left: 52.91%;
+}
+.component-2-child,
+.mask-group-icon8 {
+  position: absolute;
+  height: 88.62%;
+  top: 11.38%;
+  bottom: 0;
+  left: 0;
+}
+.component-2-child {
+  width: 100%;
+  right: 0;
+  background-color: var(--color-gray-100);
+}
+.mask-group-icon8 {
+  width: 17.78%;
+  right: 82.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chaff-dust1,
+.hyonna1 {
+  position: absolute;
+  top: 29.79%;
+  left: 18.34%;
+}
+.hyonna1 {
+  top: 64.96%;
+  left: 22.16%;
+  font-size: 10.01px;
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.next-icon,
+.next-icon1 {
+  position: absolute;
+  height: 27.7%;
+  width: 5.56%;
+  top: 41.84%;
+  right: 7.5%;
+  bottom: 30.46%;
+  left: 86.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.next-icon1 {
+  right: 28.33%;
+  left: 66.11%;
+}
+.component-2-child1,
+.component-2-inner,
+.component-2-item,
+.pause-icon {
+  position: absolute;
+  height: 31.85%;
+  width: 6.39%;
+  top: 39.76%;
+  right: 17.5%;
+  bottom: 28.39%;
+  left: 76.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-2-child1,
+.component-2-inner,
+.component-2-item {
+  height: 5.33%;
+  width: 100%;
+  top: 8.41%;
+  right: 0;
+  bottom: 86.26%;
+  left: 0;
+}
+.component-2-child1,
+.component-2-inner {
+  width: 52.78%;
+  right: 47.22%;
+}
+.component-2-child1 {
+  height: 22.16%;
+  width: 4.44%;
+  top: 0;
+  right: 45%;
+  bottom: 77.84%;
+  left: 50.56%;
+}
+.component-2 {
+  position: absolute;
+  top: 696.08px;
+  left: 0;
+  width: 375.49px;
+  height: 75.1px;
+  font-size: 18.02px;
+}
+.playlist-child {
+  position: absolute;
+  top: 771.17px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 375px;
+  height: 40.83px;
+}
+.home-indicator-dark-13 {
+  position: absolute;
+  top: 792.98px;
+  left: 0;
+  width: 375px;
+  height: 19.02px;
+  overflow: hidden;
+}
+.playlist {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-lavender-100);
+  font-family: var(--font-aclonica);
+}

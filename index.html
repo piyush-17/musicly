@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, width=device-width" />
+  <link rel="stylesheet" href="./global.css" />
+  <link rel="stylesheet" href="./index.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Aguafina Script:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Aclonica:wght@400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abel:wght@400&display=swap" />
+</head>
+
+<body>
+  <div class="welcome" id="welcomeContainer">
+    <div class="welcome-child"></div>
+    <div class="musicly">musicly</div>
+    <div class="welcome-inner">
+      <div class="sign-in-wrapper">
+        <div class="sign-in">Sign In</div>
+      </div>
+    </div>
+    <div class="loop-music-is-container">
+      <p class="loop-music-is">
+        Loop Music is the best music streaming app to
+      </p>
+      <p class="loop-music-is">
+        enjoy great music. Play any song of your favorite
+      </p>
+      <p class="loop-music-is">artist, album or playlist in high quality.</p>
+    </div>
+    <img class="image-7-icon" alt="" src="image-7@2x.png" />
+
+    <div class="rectangle-parent">
+      <div class="group-child"></div>
+      <div class="sign-up">Sign Up</div>
+    </div>
+    <img class="home-indicator-dark-2" alt="" src="home-indicator--dark-2.svg" />
+  </div>
+
+  <script>
+    var welcomeContainer = document.getElementById("welcomeContainer");
+    if (welcomeContainer) {
+      welcomeContainer.addEventListener("click", function (e) {
+        window.location.href = "./sign-in.html";
+      });
+    }
+  </script>
+</body>
+
+</html>

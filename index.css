@@ -1,0 +1,117 @@
+.welcome-child {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #4e5d75, #000);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #0a1631;
+  box-sizing: border-box;
+  width: 375px;
+  height: 820px;
+}
+.musicly,
+.sign-in {
+  letter-spacing: -0.5px;
+}
+.musicly {
+  position: absolute;
+  top: 248px;
+  left: 63px;
+  font-size: 80.57px;
+  font-family: var(--font-aguafina-script);
+  display: inline-block;
+  width: 232px;
+  height: 116px;
+}
+.sign-in {
+  position: relative;
+}
+.sign-in-wrapper,
+.welcome-inner {
+  position: absolute;
+  width: 260px;
+  height: 44.1px;
+}
+.sign-in-wrapper {
+  top: 0;
+  left: 0;
+  border-radius: 39px;
+  border: 1px solid #04d260;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 102px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcome-inner {
+  top: 649.9px;
+  left: 58px;
+}
+.loop-music-is {
+  margin: 0;
+}
+.loop-music-is-container {
+  position: absolute;
+  top: 408px;
+  left: 32px;
+  letter-spacing: -0.5px;
+  font-family: var(--font-actor);
+  display: inline-block;
+  width: 311px;
+  height: 86px;
+  opacity: 0.8;
+}
+.group-child,
+.image-7-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image-7-icon {
+  width: 375px;
+  height: 236px;
+  object-fit: cover;
+}
+.group-child {
+  border-radius: var(--br-21xl);
+  background: linear-gradient(90deg, #00d361, #70bf56 50%, #e0aa4a);
+  width: 266px;
+  height: 43px;
+}
+.sign-up {
+  position: absolute;
+  top: 8px;
+  left: 90px;
+  letter-spacing: -0.5px;
+  display: inline-block;
+  width: 86px;
+  height: 27px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 567px;
+  left: 52px;
+  width: 266px;
+  height: 43px;
+}
+.home-indicator-dark-2 {
+  position: absolute;
+  top: 804px;
+  left: 0;
+  width: 375px;
+  height: 19.02px;
+  overflow: hidden;
+}
+.welcome {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 823px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

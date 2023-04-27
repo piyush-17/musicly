@@ -1,0 +1,598 @@
+.vector-icon5 {
+  position: absolute;
+  height: 2.42%;
+  width: 5.45%;
+  top: 4.29%;
+  right: 7.32%;
+  bottom: 93.29%;
+  left: 87.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.my-playlist,
+.popular-artists,
+.recommended-for-you {
+  position: absolute;
+  width: 69.44%;
+  top: 10.87%;
+  left: 7.78%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-actor);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.my-playlist,
+.popular-artists {
+  width: 32.78%;
+  top: 51.78%;
+  left: 8%;
+}
+.popular-artists {
+  width: 45.28%;
+  top: 92.69%;
+}
+.mask-group-icon10,
+.mask-group-icon9 {
+  position: absolute;
+  height: 115.53%;
+  width: 133.01%;
+  top: -12.81%;
+  right: -18.27%;
+  bottom: -2.72%;
+  left: -14.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mask-group-icon10 {
+  height: 78.06%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 21.94%;
+  left: 0;
+}
+.erika-recinos,
+.monsters-go-bump {
+  position: absolute;
+  top: 206px;
+  left: 12.33px;
+}
+.erika-recinos {
+  top: 230.39px;
+  left: 68.33px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.image-62,
+.mask-group-group {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 16.88%;
+  right: 39.44%;
+  bottom: 53.25%;
+  left: 7.78%;
+}
+.image-62 {
+  height: 100.43%;
+  width: 111.34%;
+  top: 0;
+  right: -9.44%;
+  bottom: -0.43%;
+  left: -1.89%;
+  background-color: var(--color-darkslateblue);
+}
+.mask-group8 {
+  position: absolute;
+  height: 62.65%;
+  width: 62.96%;
+  top: 15.41%;
+  right: 16.69%;
+  bottom: 21.94%;
+  left: 20.35%;
+  filter: blur(60px);
+}
+.moment-apart3,
+.odesza3 {
+  position: absolute;
+  top: 206px;
+  left: 31.58px;
+}
+.odesza3 {
+  top: 230.39px;
+  left: 82.58px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-container {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 16.88%;
+  right: -18.89%;
+  bottom: 53.25%;
+  left: 66.11%;
+}
+.new-artists-you-need-to-check2 {
+  position: absolute;
+  top: 0;
+  left: -6.23px;
+  background-color: var(--color-indianred);
+  width: 152.73px;
+  height: 170.91px;
+}
+.mask-group9 {
+  position: absolute;
+  height: 69.43%;
+  width: 79.48%;
+  top: 8.63%;
+  right: 9.69%;
+  bottom: 21.94%;
+  left: 10.83%;
+  filter: blur(60px);
+}
+.gryffin1,
+.tie-me-down1 {
+  position: absolute;
+  top: 206px;
+  left: 38.42px;
+}
+.gryffin1 {
+  top: 230.39px;
+  left: 76.42px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.group-div {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 16.88%;
+  right: -77.22%;
+  bottom: 53.25%;
+  left: 124.44%;
+}
+.aesthetic-vaporwave-trashh2 {
+  position: absolute;
+  top: 0;
+  left: -18.76px;
+  background-color: var(--color-slateblue);
+  width: 135.68px;
+  height: 174.48px;
+}
+.mask-group10 {
+  position: absolute;
+  height: 66.38%;
+  width: 66.12%;
+  top: 11.69%;
+  right: 17.18%;
+  bottom: 21.94%;
+  left: 16.69%;
+  filter: blur(60px);
+}
+.chaff-dust2,
+.hyonna2 {
+  position: absolute;
+  top: 206px;
+  left: 26.58px;
+}
+.hyonna2 {
+  top: 230.39px;
+  left: 66.58px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-parent1 {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 16.88%;
+  right: -135.56%;
+  bottom: 53.25%;
+  left: 182.78%;
+}
+.covers1 {
+  position: absolute;
+  top: -7.46px;
+  left: 20.05px;
+  background-color: var(--color-aquamarine);
+  width: 120.98px;
+  height: 265.18px;
+}
+.mask-group11 {
+  position: absolute;
+  height: 66.22%;
+  width: 81.52%;
+  top: 9.24%;
+  right: 11.09%;
+  bottom: 24.54%;
+  left: 7.39%;
+  filter: blur(60px);
+}
+.believer4,
+.imagine-dragon5 {
+  position: absolute;
+  top: 206px;
+  left: 61.5px;
+}
+.imagine-dragon5 {
+  top: 230.39px;
+  left: 63.5px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.image-63,
+.mask-group-parent2 {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 57.79%;
+  right: 39.22%;
+  bottom: 12.35%;
+  left: 8%;
+}
+.image-63 {
+  height: 100.43%;
+  width: 111.34%;
+  top: 0;
+  right: -9.44%;
+  bottom: -0.43%;
+  left: -1.89%;
+  background-color: var(--color-peru);
+}
+.mask-group12 {
+  position: absolute;
+  height: 62.66%;
+  width: 62.96%;
+  top: 15.4%;
+  right: 16.69%;
+  bottom: 21.94%;
+  left: 20.35%;
+  filter: blur(60px);
+}
+.mask-group-icon15 {
+  position: absolute;
+  height: 78.07%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 21.93%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ryan-grigdry3,
+.shortwave3 {
+  position: absolute;
+  top: 205.98px;
+  left: 48.58px;
+}
+.ryan-grigdry3 {
+  top: 230.36px;
+  left: 68.58px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-parent3,
+.mask-group13 {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 57.79%;
+  right: -18.89%;
+  bottom: 12.35%;
+  left: 66.11%;
+}
+.mask-group13 {
+  height: 69.44%;
+  width: 79.48%;
+  top: 8.62%;
+  right: 9.69%;
+  bottom: 21.94%;
+  left: 10.83%;
+  filter: blur(60px);
+}
+.dream-on1,
+.roger-terry1 {
+  position: absolute;
+  top: 205.98px;
+  left: 48.42px;
+}
+.roger-terry1 {
+  top: 230.36px;
+  left: 66.42px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-parent4 {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 57.79%;
+  right: -77.22%;
+  bottom: 12.35%;
+  left: 124.44%;
+}
+.aesthetic-vaporwave-trashh3 {
+  position: absolute;
+  top: 0;
+  left: -18.76px;
+  background-color: var(--color-darkgreen);
+  width: 135.68px;
+  height: 174.48px;
+}
+.mask-group14 {
+  position: absolute;
+  height: 66.39%;
+  width: 66.12%;
+  top: 11.67%;
+  right: 17.18%;
+  bottom: 21.94%;
+  left: 16.69%;
+  filter: blur(60px);
+}
+.mask-group-icon17 {
+  position: absolute;
+  height: 78.08%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 21.92%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagine-dragon6,
+.origins1 {
+  position: absolute;
+  top: 205.95px;
+  left: 50.58px;
+}
+.imagine-dragon6 {
+  top: 230.34px;
+  left: 49.58px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-abel);
+  color: var(--color-lightskyblue);
+}
+.mask-group-parent5 {
+  position: absolute;
+  height: 29.86%;
+  width: 52.78%;
+  top: 57.8%;
+  right: -135.56%;
+  bottom: 12.35%;
+  left: 182.78%;
+}
+.options-child,
+.options-child1,
+.options-child2,
+.options-inner,
+.options-item,
+.rectangle-icon {
+  position: absolute;
+  top: 804.39px;
+  left: 30.8px;
+  border-radius: var(--br-5xs);
+  width: 92px;
+  height: 92px;
+  object-fit: cover;
+}
+.options-child1,
+.options-child2,
+.options-inner,
+.options-item,
+.rectangle-icon {
+  top: 920.39px;
+}
+.options-child1,
+.options-child2,
+.options-inner,
+.rectangle-icon {
+  top: 804.39px;
+  left: 140.9px;
+}
+.options-child1,
+.options-child2,
+.rectangle-icon {
+  top: 920.39px;
+}
+.options-child1,
+.options-child2 {
+  top: 804.39px;
+  left: 250px;
+}
+.options-child2 {
+  top: 920.39px;
+}
+.cardi-b,
+.dababy,
+.drake,
+.eminem,
+.morgan-wallen,
+.taylor-swift {
+  position: absolute;
+  top: 876.39px;
+  left: 56.8px;
+  font-size: var(--font-size-xs);
+}
+.cardi-b,
+.dababy,
+.eminem,
+.morgan-wallen,
+.taylor-swift {
+  left: 147.4px;
+}
+.cardi-b,
+.dababy,
+.eminem,
+.morgan-wallen {
+  left: 273.5px;
+}
+.dababy,
+.eminem,
+.morgan-wallen {
+  top: 992.39px;
+  left: 51.8px;
+}
+.dababy,
+.morgan-wallen {
+  left: 137.4px;
+}
+.dababy {
+  left: 270.5px;
+}
+.options-child3,
+.options-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 815px;
+}
+.options-child3 {
+  background-color: rgba(9, 18, 39, 0.7);
+  width: 375px;
+}
+.options-child4 {
+  background-color: var(--color-gray-100);
+  width: 265px;
+}
+.options-child5 {
+  position: absolute;
+  top: 35.29px;
+  left: 30.31px;
+  width: 18.4px;
+  height: 18.4px;
+  cursor: pointer;
+}
+.cog-icon {
+  position: absolute;
+  top: 384.07px;
+  left: 25.18px;
+  width: 20.67px;
+  height: 20.65px;
+}
+.bulb-on-icon,
+.moon-icon {
+  position: absolute;
+  top: 35.8px;
+  left: 222px;
+  width: 24.2px;
+  height: 24.4px;
+}
+.bulb-on-icon {
+  top: 328.41px;
+  left: 25.51px;
+  width: 20px;
+  height: 20.33px;
+}
+.message-text-alt-icon,
+.user-icon {
+  position: absolute;
+  top: 272.07px;
+  left: 25.18px;
+  width: 20.67px;
+  height: 20.65px;
+}
+.user-icon {
+  top: 104.07px;
+  left: 25.51px;
+  width: 20px;
+}
+.globe-americas-icon {
+  position: absolute;
+  top: 216.07px;
+  left: 25.18px;
+  width: 20.67px;
+  height: 20.67px;
+}
+.profile {
+  position: absolute;
+  top: 103.41px;
+  left: 75.59px;
+  font-size: var(--font-size-xl);
+  color: var(--color-lavender-200);
+  text-align: left;
+}
+.heart-icon3 {
+  position: absolute;
+  top: 2px;
+  left: -0.33px;
+  width: 20.67px;
+  height: 20px;
+}
+.liked-songs {
+  position: absolute;
+  top: 1px;
+  left: 48.08px;
+}
+.contact-us,
+.faqs,
+.heart-parent,
+.language,
+.settings {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  color: var(--color-lavender-200);
+  text-align: left;
+}
+.heart-parent {
+  top: 158.41px;
+  left: 25.51px;
+  width: 158.08px;
+  height: 24px;
+  cursor: pointer;
+}
+.contact-us,
+.faqs,
+.language,
+.settings {
+  top: 215.41px;
+  left: 75.59px;
+}
+.contact-us,
+.faqs,
+.settings {
+  top: 271.4px;
+}
+.faqs,
+.settings {
+  top: 327.41px;
+}
+.settings {
+  top: 383.4px;
+}
+.home-indicator-dark-14 {
+  position: absolute;
+  top: 792.98px;
+  left: 0;
+  width: 375px;
+  height: 19.02px;
+  overflow: hidden;
+}
+.options {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 815px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-lavender-100);
+  font-family: var(--font-aclonica);
+}
